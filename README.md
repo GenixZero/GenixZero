@@ -1,7 +1,7 @@
 <h1 align="center">- GenixZero -</h1>  
 
 <p align="left"> 
-<img src="https://github-download-stats.vercel.app/api/stats?username=GENIXZERO" height="21"/>
+<img src="https://github-download-stats.vercel.app/api/stats?username=GENIXZERO"/>
 <img src="https://komarev.com/ghpvc/?username=genixzero&label=Profile%20views&color=0e75b6&style=flat" alt="genixzero"/>
 </p>  
 
